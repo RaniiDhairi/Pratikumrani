@@ -1,0 +1,1 @@
+web: streamlit run Hallo word.py --server.port=$SPORT --server .address=0.0.0.0
